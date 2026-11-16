@@ -6,3 +6,4 @@ Edición remota 2
 Cambio local 2
 ## Capacidad 4: colaboración con GitHub
 Repositorio publicado en GitHub.
+Licencia: uso educativo
